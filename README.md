@@ -12,5 +12,5 @@ It helps the users to find products through an image.
 #### Contributer
 This was a team project. You can contact my other mates.
 1. [Sanskruti Dube](https://github.com/sanskrutidube)
-2. [Naman Purkar]()
-3. [Anagh Garg]()
+2. [Naman Purkar](https://github.com/Naman160802)
+3. [Anagh Garg](https://github.com/anagh2403)
